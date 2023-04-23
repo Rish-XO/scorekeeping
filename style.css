@@ -1,0 +1,8 @@
+body {
+    background: url('pinpong.jpg') center center;
+    }
+
+img {
+    height: 250px;
+    opacity: 0;
+}
